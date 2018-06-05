@@ -1,0 +1,7 @@
+@media screen and (max-width: 500px) {
+
+    .site-banner .global-search-form.is-visible .gsf-fields {
+    top: 44px;
+    right: -45px;
+}
+}
